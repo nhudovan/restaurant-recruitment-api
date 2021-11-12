@@ -1,0 +1,23 @@
+[
+    {
+		"_id": "5d7a514b5d2c12c7449be222",
+		"username": "publisher",
+		"email": "publisher@gmail.com",
+		"role": "publisher",
+		"password" : "123123"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be223",
+		"username": "Admin",
+		"email": "admin@gmail.com",
+		"role": "admin",
+		"password" : "123123"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be224",
+		"username": "User",
+		"email": "user@gmail.com",
+		"role": "user",
+		"password" : "123123"
+	}
+]

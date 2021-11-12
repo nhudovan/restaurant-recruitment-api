@@ -1,0 +1,169 @@
+[{
+	"name" 		    : "Nhà hàng Tiến Ngọc",
+	"description" 	: "Nhà hàng chúng tôi chuyên phục vụ ẩm thực chay",
+	"careers"	    : ["5d7a514b5d2c12c7449be022","5d7a514b5d2c12c7449be023"],
+	"type"		    : "xoay ca",
+	"local"		    : "Miền Nam",
+	"web"		    : "False",
+	"address" 	    : "43/12 đường 17 phường Linh Trung Quận Thủ Đức TPHCM",
+	"phone"		    : "0987456121",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà hàng Hàng Nga",
+	"description" 	: "Nhà hàng chúng tôi chuyên phục vụ hải sản tươi sống",
+	"careers"	    : ["5d7a514b5d2c12c7449be024","5d7a514b5d2c12c7449be022"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "False",
+	"address" 	    : "40 đường cây keo phường Tam Phú Quận Thủ Đức TPHCM",
+	"phone"		    : "0937614253",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng Thiên Phú Quý",
+	"description" 	: "Cung cấp các dịch vụ tiệc cưới , thôi nôi ,sinh nhật ,...",
+	"careers"	    : ["5d7a514b5d2c12c7449be025","5d7a514b5d2c12c7449be026","5d7a514b5d2c12c7449be023"],
+	"type"		    : "Cố định",
+	"local"		    : "Miền Nam",
+	"web"		    : "False",
+	"address" 	    : "23 Lê Trọng Tấn Phường Sơn Kỳ Quận Tân Bình TPHCM",
+	"phone"		    : "0967119687",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà hàng A Lớn",
+	"description" 	: "cung cấp ẩm thực ăn ngon",
+	"careers"	    : ["5d7a514b5d2c12c7449be026","5d7a514b5d2c12c7449be025"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "100 đường Tô Ngọc Vân Quận Thủ Đức TPHCM",
+	"phone"		    : "0367897153",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng Hadori",
+	"description" 	: "Cung cấp những món ăn Hàn Quốc",
+	"careers"	    : ["5d7a514b5d2c12c7449be026","5d7a514b5d2c12c7449be022"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Bắc",
+	"web"		    : "",
+	"address" 	    : "89 đường Ngô Đức Đệ Quận Hồ Tây",
+	"phone"		    : "077889900",
+	"email"		    : "nd@gmail.com"
+	
+},
+{
+	"name" 		    : "Nhà Hàng Quê Hương",
+	"description" 	: "Cung cấp các món ăn đặc sản quê hương VN ",
+	"careers"	    : ["5d7a514b5d2c12c7449be024","5d7a514b5d2c12c7449be025"],
+	"type"		    : "Cố định",
+	"local"		    : "Miền Nam",
+	"web"		    : "zendvn.com",
+	"address" 	    : "57 đường TRường Chinh Quận 10 TPHCM",
+	"phone"		    : "078988432",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng Hương Biển",
+	"description" 	: "Cung cấp các món ăn hải sản Lẫu Nướng",
+	"careers"	    : ["5d7a514b5d2c12c7449be025","5d7a514b5d2c12c7449be026"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "11 đường số 7 Phường Ling trung Quận Thủ Đức TPHCM",
+	"phone"		    : "033544677",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng biển xanh",
+	"description" 	: "Cung cấp các món ăn hải sản như cua ghẹ tôm mực",
+	"careers"	    : ["5d7a514b5d2c12c7449be023","5d7a514b5d2c12c7449be022"],
+	"type"		    : "Cố định",
+	"local"		    : "Miền Trung",
+	"web"		    : "",
+	"address" 	    : "17 đường Cộng Hòa Thị trấn Bình Định",
+	"phone"		    : "077977777",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng Á Âu",
+	"description" 	: "Cung cấp các món ăn Á và Âu",
+	"careers"	    : ["5d7a514b5d2c12c7449be025","5d7a514b5d2c12c7449be022","5d7a514b5d2c12c7449be027"],
+    "type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "123 đường Lý Chính Thắng Quận Gò Vấp TPHCM",
+	"phone"		    : "036889999",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà hàng Pháp",
+	"description" 	: "Cung cấp các món ăn ẩm thực Pháp",
+	"careers"	    : ["5d7a514b5d2c12c7449be024","5d7a514b5d2c12c7449be022"],
+	"type"		    : "Cố định",
+	"local"		    : "Miền Trung",
+	"web"		    : "",
+	"address" 	    : "110 đường Nguyễn Gia Trí Tp Huế",
+	"phone"		    : "097768888",
+	"email"		    : "nt@gmail.com"
+	
+},
+{
+	"name" 		    : "Nhà Hàng Hoa Tân An",
+	"description" 	: "Cung cấp các dịch vụ nhà hàng, tiệc cưới",
+	"careers"	    : ["5d7a514b5d2c12c7449be027","5d7a514b5d2c12c7449be025","5d7a514b5d2c12c7449be026"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "12-14 đường Nguyễn Tất Thành Quận 7 TPHCM",
+	"phone"		    : "19006768",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà Hàng Ba Miền",
+	"description" 	: "Cung cấp những món ăn ngon khắp 3 miền",
+	"careers"	    : ["5d7a514b5d2c12c7449be022","5d7a514b5d2c12c7449be026","5d7a514b5d2c12c7449be025"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "1 Đường Điện Biên Phủ Quận Bình Thạnh TPHCM",
+	"phone"		    : "0398877666",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà hàng Sushi",
+	"description" 	: "Cung cấp các món ăn Nhật Bản",
+	"careers"	    : ["5d7a514b5d2c12c7449be026","5d7a514b5d2c12c7449be025"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "67 Nam Kỳ Khởi Nghĩa Quận 1 TPHCM",
+	"phone"		    : "19003136",
+	"email"		    : ""
+	
+},
+{
+	"name" 		    : "Nhà hàng Amino",
+	"description" 	: "Cyung cấp các món ăn Á Âu",
+	"careers"	    : ["5d7a514b5d2c12c7449be024","5d7a514b5d2c12c7449be025"],
+	"type"		    : ["Cố định","Xoay ca"],
+	"local"		    : "Miền Nam",
+	"web"		    : "",
+	"address" 	    : "16 Nguyễn Huệ Quận 1 TPHCM",
+	"phone"		    : "19002345",
+	"email"		    : ""
+	
+}
+]

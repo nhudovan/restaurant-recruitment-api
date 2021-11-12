@@ -1,0 +1,44 @@
+[
+    {
+		"_id": "5d7a514b5d2c12c7449be022",
+		"name": "Thu Ngân",
+		"title": "Làm việc tại quầy bán hàng mà tính toán chi phí thu chi",
+		"like": 7,
+		"dislike" : 0
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be023",
+		"name": "Đầu bếp",
+		"title": "Chuẩn bị và nấu món ăn",
+		"like": 8,
+		"dislike" : 0
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be024",
+		"name": "Quản lý",
+		"title": "Kiểm tra nhân viên",
+		"like": 10,
+		"dislike" : 0
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be025",
+		"name": "Nhân viên phục vụ",
+		"title": "Sắp xếp và dọn dẹp trước và sau giờ làm việc",
+		"like": 5,
+		"dislike" : 0
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be026",
+		"name": "Bảo vệ",
+		"title": "Bảo vệ  và hướng dẫn khách hàng",
+		"like": 7,
+		"dislike" : 0
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be027",
+		"name": "Lễ Tân",
+		"title": "Hướng dẫn khách hàng",
+		"like": 7,
+		"dislike" : 0
+	}
+]
